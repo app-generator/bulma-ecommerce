@@ -24,5 +24,9 @@
 
 <br />
 
+![Bulma eCommerce - Simple platform powered by 11ty and Bulma. ](https://raw.githubusercontent.com/app-generator/bulma-ecommerce/main/media/bulma-ecommerce-screen.png) 
+
+<br />
+
 ---
 [Bulma](https://bulma-css.com/) eCommerce - provided by [AppSeed - App Generator](https://appseed.us/)
